@@ -24,7 +24,7 @@ Final translation + full reasoning trace
 
 ## Setup
 
-Requires Python 3.10+.
+Requires Python 3.9+.
 
 ```bash
 git clone https://github.com/maythuthukhine3042-cyber/PragmaSense-AI.git
@@ -41,7 +41,15 @@ export GEMINI_API_KEY="your-key-here"
 $env:GEMINI_API_KEY="your-key-here"
 ```
 
-Optional: `export GEMINI_MODEL="<model name from AI Studio>"` (default `gemini-flash-latest`).
+The experiments in the paper used `gemini-flash-lite-latest` at temperature 0:
+
+```bash
+export GEMINI_MODEL="gemini-flash-lite-latest"
+```
+
+(Without this, the default model is `gemini-flash-latest`.) The response cache
+(`results/llm_cache.jsonl`) is not included in this repository, so a re-run calls the API
+again and LLM outputs may differ slightly from the published ones in `results/outputs.jsonl`.
 To use an OpenAI-compatible API instead: `export LLM_BACKEND=openai OPENAI_API_KEY=...`.
 
 ## Usage
@@ -90,12 +98,17 @@ pragmasense/prompts.py   all prompts
 pragmasense/llm.py       Gemini / OpenAI-compatible / mock client with cache
 pragmasense/metrics.py   chrF++, weighted kappa, Spearman
 data/knowledge_base.json particle table (levels 1–4 assigned by the author)
-data/benchmark.csv       32 Thai–Myanmar pairs, 8 per archetype (benchmark_full48.csv = larger optional set)
+data/benchmark.csv       32 Thai–Myanmar test pairs, 8 per archetype, from the author's thesis dataset
+data/benchmark_pilot.csv separate development set used to refine the knowledge base (no test items)
+data/source_notes.csv    English gloss and intended tone shown to the human raters
+results/                 outputs, automatic and human metrics, blind ratings of the two raters
+results_pilot/           outputs and ratings of the development run
 ```
 
 ## Limitations
 
-The register levels in the knowledge base and the reference translations were assigned by
-one native Myanmar speaker. Marker detection is rule-based (regex) and can miss or
+The register levels in the knowledge base were assigned by one native Myanmar speaker
+(the author); the reference translations were written by one Thai–Myanmar bilingual speaker.
+Human evaluation used two raters (κ = 0.37, fair agreement). Marker detection is rule-based (regex) and can miss or
 over-detect markers. The KB-based drift rate is the same signal the critic optimises, so
 blind human ratings are the main evaluation.
