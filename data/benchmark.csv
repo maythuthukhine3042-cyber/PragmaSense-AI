@@ -1,0 +1,33 @@
+id,archetype,context,speaker_gender,thai,myanmar_ref,google_translate,verified,source_item
+D01,deference,shop staff to a customer,female,ระวังด้วยค่ะ,သတိထားပါနော်,သတိထားပါ။,yes,7
+D02,deference,customer thanking staff,female,ขอบคุณมากค่ะ,ကျေးဇူးအများကြီးတင်တယ်နော်,ကျေးဇူးအများကြီးတင်ပါတယ်,yes,9
+D03,deference,staff telling a customer she will come back,female,กลับมาอีกทีค่ะ,နောက်မှ ပြန်လာပါမယ်နော်,ကျွန်တော် ပြန်ရောက်လာပြန်ပြီ။,yes,10
+D04,deference,replying politely to an apology,female,ไม่เป็นไรค่ะ,ရပါတယ် နော်,ကိစ္စမရှိပါဘူး,yes,12
+D05,deference,greeting someone politely,female,เป็นยังไงบ้างคะ,နေကောင်းလား,နေကောင်းလား?,yes,14
+D06,deference,asking a colleague for help,female,ช่วยได้ไหมคะ,ကူညီပေးနိုင်မလားနော်,ကျွန်တော့်ကိုကူညီပေးလို့ရမလား?,yes,21
+D07,deference,telling an older person she is worried,female,ห่วงค่ะ,စိုးရိမ်နေတယ်နော်,ကျွန်တော်/ကျွန်မ စိတ်ပူနေပါတယ်။,yes,26
+D08,deference,seeing a guest off,female,ไปช้าๆค่ะ,ဖြေးဖြေးသွားပါ,ဖြည်းဖြည်းသွားပါ။,yes,28
+S01,softening,apologising to a friend,,ขอโทษนะ,တောင်းပန်ပါတယ်နော်,တောင်းပန်ပါတယ်။,yes,3
+S02,softening,reminding a friend,,อย่าลืมนะ,မမေ့နဲ့နော်,မမေ့ပါနဲ့။,yes,8
+S03,softening,inviting a friend to eat,,กินข้าวด้วยกันนะ,အတူတူ ထမင်းစားကြမယ်နော်,အတူတူစားကြရအောင်။,yes,11
+S04,softening,encouraging a friend,,ทำช้าๆนะ,တဖြည်းဖြည်းလုပ်ပါနော်,ဖြည်းဖြည်းလုပ်ပါ။,yes,13
+S05,softening,saying goodbye to a friend,,ดูแลตัวเองนะ,ကိုယ်ကို ဂရုစိုက်ပါနော်,ကိုယ့်ကိုယ်ကိုယ် ဂရုစိုက်ပါ။,yes,19
+S06,softening,telling a tired friend to rest,,พักผ่อนก่อนนะ,အနားယူပါဦးနော်,အရင်အနားယူပါ။,yes,35
+S07,softening,apologising sincerely to a friend,,ขอโทษจริงๆ นะ,တကယ်ဆောရီးနော်,တကယ်စိတ်မကောင်းပါဘူး။,yes,37
+S08,softening,message to a close friend,,คิดถึงนะ,သတိရနေတယ်နော်,မင်းကို လွမ်းတယ်။,yes,39
+U01,urgency,emergency: telling someone to leave,,ไปเดี๋ยวนี้สิ!,အခုချက်ချင်းသွားပါ!,အခုသွားတော့!,yes,40
+U02,urgency,stopping someone,,เดี๋ยวก่อนสิ,ခဏရပ်ပါဦး!,ခဏစောင့်!,yes,41
+U03,urgency,telling someone to come in,,เข้ามาเร็วสิ,မြန်မြန်ဝင်လာပါ!,မြန်မြန်ဝင်လာခဲ့!,yes,42
+U04,urgency,emergency,,รีบโทรหาตำรวจเลย,ရဲကို အမြန်ဆုံးဖုန်းဆက်ပါ!,ရဲကို ချက်ချင်းခေါ်လိုက်!,yes,43
+U05,urgency,calling someone over,,มาเร็วๆสิ,မြန်မြန်လာပါ,မြန်မြန်လာ!,yes,46
+U06,urgency,hurrying a friend,,ทำเร็วๆสิ,မြန်မြန်လုပ်ပါဟယ်!,မြန်မြန်လုပ်!,yes,60
+U07,urgency,pressing someone to decide,,ตัดสินใจเร็วๆสิ,မြန်မြန်ဆုံးဖြတ်ချက်ချပါတော့!,မြန်မြန်ဆုံးဖြတ်ချက်ချ!,yes,65
+U08,urgency,asking someone to send something,,ส่งตอนนี้เลย,အခုချက်ချင်းပို့ပါ!,အခုပို့လိုက်!,yes,68
+F01,familiarity,angry at a close friend,,ทำไมทำแบบนี้วะ,ဘာလို့ ဒီလိုလုပ်ရတာလဲကွာ,ဘာလို့ ဒီလိုလုပ်တာလဲ။,yes,80
+F02,familiarity,fed up with a close friend,,ไม่อยากคุยแล้วว่ะ,ပြောချင်မနေတော့ဘူး,ငါ ဆက်မပြောချင်တော့ဘူး။,yes,84
+F03,familiarity,accusing a close friend,,มึงนั่นและ คนที่ลบ,မင်းဖျက်လိုက်တာ!,မင်းပဲ ဖျက်လိုက်တာ။,yes,86
+F04,familiarity,frustrated with a close friend,,กูบอกมึงแล้วไง,ငါမင်းကိုပြောပြီးပြီလေ,ငါပြောပြီးပြီ!,yes,88
+F05,familiarity,complaining to a close friend,,เหนื่อยใจวะ,စိတ်ပင်ပန်းလာပြီ,ငါ အရမ်းငြီးငွေ့နေပြီ။,yes,89
+F06,familiarity,complaining about a close friend,,ทำอีกแล้ววะ,ထပ်ခါထပ်ခါ လုပ်နေပြန်ပြီ!,မင်း ထပ်လုပ်ပြန်ပြီ!,yes,107
+F07,familiarity,complaining to a close friend,,เบื่อแล้วว่ะ,ငြီးငွေ့နေပြီကွာ,ငါ ငြီးငွေ့နေပြီ။,yes,109
+F08,familiarity,angry at a close friend,,ทำไมไม่บอกล่วงหน้าว่ะ,ဘာကြောင့် အရင်ကတည်းက မပြောတာလဲ!,ဘာလို့ ငါ့ကို ကြိုတင်မပြောတာလဲ။,yes,115

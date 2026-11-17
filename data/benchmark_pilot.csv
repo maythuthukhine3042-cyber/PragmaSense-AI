@@ -1,0 +1,33 @@
+id,archetype,context,speaker_gender,thai,myanmar_ref,google_translate,verified
+D01,deference,colleague inviting a senior colleague,male,ไปทานข้าวด้วยกันไหมครับ,ထမင်းအတူတူ သွားစားကြပါမလား ခင်ဗျာ,ကျွန်တော်တို့ အတူတူ ထမင်းစားကြမလား?,Yes
+D02,deference,customer asking shop staff,female,ห้องน้ำอยู่ที่ไหนคะ,အိမ်သာ ဘယ်မှာလဲ ရှင်,သန့်စင်ခန်း ဘယ်မှာလဲ?,Yes
+D03,deference,employee to manager,male,รบกวนส่งเอกสารให้ผมภายในวันนี้ได้ไหมครับ,ဒီနေ့အတွင်း စာရွက်စာတမ်းတွေ ပို့ပေးလို့ရမလား ခင်ဗျာ,ဒီနေ့ စာရွက်စာတမ်းတွေ ကျွန်တော့်ဆီ ပို့ပေးနိုင်မလား။,Yes
+D04,deference,customer thanking staff,female,ขอบคุณมากค่ะ,ကျေးဇူးအများကြီးတင်ပါတယ် ရှင်,ကျေးဇူးအများကြီးတင်ပါတယ်,Yes
+D05,deference,student to teacher,male,อาจารย์ครับ ผมขอเลื่อนวันส่งงานได้ไหมครับ,ဆရာ ခင်ဗျာ၊ အလုပ်တင်ရမယ့်ရက်ကို ရွှေ့ခွင့်ရနိုင်မလား ခင်ဗျာ,ပါမောက္ခ၊ ကျွန်တော်/ကျွန်မ အိမ်စာတင်သွင်းရမယ့်ရက်ကို ရွှေ့ဆိုင်းလို့ရမလား။,Yes
+D07,deference,self-introduction at a formal meeting,male,ผมชื่อสมชายครับ ยินดีที่ได้รู้จักครับ,ကျွန်တော့်နာမည် ဆွမ်ချိုင်ပါ၊ တွေ့ရတာ ဝမ်းသာပါတယ် ခင်ဗျာ,ကျွန်တော့်နာမည် ဆွမ်ချိုင်းပါ။ တွေ့ရတာ ဝမ်းသာပါတယ်။,Yes
+D09,deference,host to guest,male,เชิญนั่งก่อนครับ,ထိုင်ပါဦး ခင်ဗျာ,ကျေးဇူးပြုပြီး ထိုင်ခုံပေးပါ။,Yes
+D10,deference,customer ordering at a shop,female,ขอน้ำเปล่าหนึ่งขวดค่ะ,ရေသန့် တစ်ဘူး ပေးပါ ရှင်,ရေတစ်ပုလင်း ပေးပါ,Yes
+S01,softening,friend reminding friend,female,พรุ่งนี้อย่าลืมโทรหาฉันนะ,မနက်ဖြန် ငါ့ကို ဖုန်းဆက်ဖို့ မမေ့နဲ့နော်,မနက်ဖြန် ငါ့ကို ဖုန်းဆက်ဖို့ မမေ့နဲ့။,Yes
+S02,softening,roommate asking roommate,,ช่วยปิดไฟหน่อยนะ,မီးလေး ပိတ်ပေးပါနော်,မီးတွေပိတ်ပေးပါ။,Yes
+S03,softening,friends deciding to leave,,ไปกันเถอะ,သွားကြရအောင်,သွားကြရအောင်။,Yes
+S04,softening,reassuring a friend,,ไม่เป็นไรหรอก,ရပါတယ်၊ ကိစ္စမရှိပါဘူး,အဆင်ပြေပါတယ်။,Yes
+S05,softening,classmate borrowing a pen,female,ขอยืมปากกาหน่อยนะคะ,ဘောပင်လေး ခဏ ငှားပါရစေနော် ရှင်,ဘောပင်ငှားလို့ရမလား။,Yes
+S06,softening,parent to child,,กินข้าวเยอะ ๆ นะลูก,သားရေ ထမင်းများများ စားနော်,ထမင်းများများစားပါ ကလေးရယ်။,Yes
+S09,softening,aunt to niece,female,มาเที่ยวบ้านบ้างนะจ๊ะ,အိမ်ကို လာလည်ပါဦးနော်,ငါ့အိမ်ကို တစ်ခေါက်လောက် လာလည်ပါဦး!,Yes
+S10,softening,older sister offering help,female,เดี๋ยวฉันช่วยเองจ้ะ,ငါ ကူညီပေးပါ့မယ်နော်,ကျွန်တော်/ကျွန်မ ကူညီပါ့မယ်။,Yes
+U01,urgency,friend at a bus stop,,เร็วสิ รถจะออกแล้ว,မြန်မြန်လုပ်လေ၊ ကား ထွက်တော့မယ်,မြန်မြန်လုပ်၊ ဘတ်စ်ကား ထွက်တော့မှာပါ!,Yes
+U03,urgency,friend offering food,,ลองกินดูสิ อร่อยนะ,စားကြည့်လေ၊ စားလို့ကောင်းတယ်နော်,စမ်းကြည့်ပါ၊ အရမ်းအရသာရှိတယ်!,Yes
+U04,urgency,older sibling to younger sibling,,ปิดประตูซิ,တံခါး ပိတ်လိုက်လေ,တံခါးပိတ်သည်။,Yes
+U05,urgency,friend telling friend to go ahead,,ไปเลย ไม่ต้องรอฉัน,သွားလိုက်တော့၊ ငါ့ကို မစောင့်နဲ့,လာပါ၊ ငါ့ကို မစောင့်နဲ့။,Yes
+U06,urgency,friend asking what happened,,พูดมาสิ เกิดอะไรขึ้น,ပြောလေ၊ ဘာဖြစ်တာလဲ,ပြောပါဦး၊ ဘာဖြစ်သွားတာလဲ။,Yes
+U07,urgency,team leader to team member,,ส่งงานภายในวันนี้เลยนะ,ဒီနေ့အတွင်း အလုပ်တင်လိုက်တော့နော်,ဒီနေ့ assignment တင်လိုက်ပါ။,Yes
+U08,urgency,annoyed friend demanding an answer,,ตอบมาสิ,ဖြေစမ်း, ကျွန်တော့်ကိုဖြေပါ။,Yes
+U11,urgency,asking friends to help,,มาช่วยกันหน่อยสิ,လာကူကြစမ်းပါ,လာပြီး ကျွန်တော့်ကို ကူညီပါ။,Yes
+F01,familiarity,two close male friends,male,ไปไหนมาวะ,ဘယ်သွားနေတာလဲကွ,မင်းဘာတွေရောက်နေတာလဲ?,Yes
+F02,familiarity,two close male friends,male,หิวว่ะ,ဗိုက်ဆာတယ်ကွာ,ကျွန်တော်ဗိုက်ဆာနေတယ်။,Yes
+F03,familiarity,angry teenager to sibling,,อย่ามายุ่งโว้ย,မရှုပ်နဲ့ကွာ,တစ်ယောက်တည်းနေချင်တယ်!,Yes
+F04,familiarity,close friends teasing,male,เฮ้ย มึงมาสายอีกแล้ว,ဟေ့ကောင် မင်း နောက်ကျပြန်ပြီ,ဟေ့၊ မင်း နောက်ကျပြန်ပြီ!,Yes
+F06,familiarity,surprised among close friends,,อะไรวะเนี่ย,ဘာကြီးလဲကွ,ဘာကြီးလဲ။,Yes
+F07,familiarity,close male friends,male,กูไม่รู้ว่ะ,ငါ မသိဘူးကွ,ကျွန်တော်မသိပါ။,Yes
+F09,familiarity,impatient close friend,,เร็ว ๆ ดิวะ,မြန်မြန်လုပ်စမ်းကွာ,မြန်မြန်လုပ်ပါ!,Yes
+F12,familiarity,close male friends,male,มึงกินข้าวยังวะ,မင်း ထမင်းစားပြီးပြီလားကွ,စားပြီးပြီလား။,Yes

@@ -1,0 +1,49 @@
+id,archetype,context,speaker_gender,thai,myanmar_ref,google_translate,verified
+D01,deference,colleague inviting a senior colleague,male,ไปทานข้าวด้วยกันไหมครับ,ထမင်းအတူတူ သွားစားကြပါမလား ခင်ဗျာ,,no
+D02,deference,customer asking shop staff,female,ห้องน้ำอยู่ที่ไหนคะ,အိမ်သာ ဘယ်မှာလဲ ရှင်,,no
+D03,deference,employee to manager,male,รบกวนส่งเอกสารให้ผมภายในวันนี้ได้ไหมครับ,ဒီနေ့အတွင်း စာရွက်စာတမ်းတွေ ပို့ပေးလို့ရမလား ခင်ဗျာ,,no
+D04,deference,customer thanking staff,female,ขอบคุณมากค่ะ,ကျေးဇူးအများကြီးတင်ပါတယ် ရှင်,,no
+D05,deference,student to teacher,male,อาจารย์ครับ ผมขอเลื่อนวันส่งงานได้ไหมครับ,ဆရာ ခင်ဗျာ၊ အလုပ်တင်ရမယ့်ရက်ကို ရွှေ့ခွင့်ရနိုင်မလား ခင်ဗျာ,,no
+D06,deference,cashier to customer,female,รับใบเสร็จไหมคะ,ပြေစာ ယူမလား ရှင်,,no
+D07,deference,self-introduction at a formal meeting,male,ผมชื่อสมชายครับ ยินดีที่ได้รู้จักครับ,ကျွန်တော့်နာမည် ဆွမ်ချိုင်ပါ၊ တွေ့ရတာ ဝမ်းသာပါတယ် ခင်ဗျာ,,no
+D08,deference,staff asking organiser,female,ประชุมจะเริ่มกี่โมงคะ,အစည်းအဝေး ဘယ်အချိန် စမှာလဲ ရှင်,,no
+D09,deference,host to guest,male,เชิญนั่งก่อนครับ,ထိုင်ပါဦး ခင်ဗျာ,,no
+D10,deference,customer ordering at a shop,female,ขอน้ำเปล่าหนึ่งขวดค่ะ,ရေသန့် တစ်ဘူး ပေးပါ ရှင်,,no
+D11,deference,secretary announcing to staff,male,ท่านผู้อำนวยการมาถึงแล้วครับ,ညွှန်ကြားရေးမှူး ရောက်လာပါပြီ ခင်ဗျာ,,no
+D12,deference,replying politely to an apology,female,ไม่เป็นไรค่ะ,ရပါတယ် ရှင်,,no
+S01,softening,friend reminding friend,female,พรุ่งนี้อย่าลืมโทรหาฉันนะ,မနက်ဖြန် ငါ့ကို ဖုန်းဆက်ဖို့ မမေ့နဲ့နော်,,no
+S02,softening,roommate asking roommate,,ช่วยปิดไฟหน่อยนะ,မီးလေး ပိတ်ပေးပါနော်,,no
+S03,softening,friends deciding to leave,,ไปกันเถอะ,သွားကြရအောင်,,no
+S04,softening,reassuring a friend,,ไม่เป็นไรหรอก,ရပါတယ်၊ ကိစ္စမရှိပါဘူး,,no
+S05,softening,classmate borrowing a pen,female,ขอยืมปากกาหน่อยนะคะ,ဘောပင်လေး ခဏ ငှားပါရစေနော် ရှင်,,no
+S06,softening,parent to child,,กินข้าวเยอะ ๆ นะลูก,သားရေ ထမင်းများများ စားနော်,,no
+S07,softening,friend asking friend to wait,,รอแป๊บนึงนะ,ခဏလေး စောင့်နော်,,no
+S08,softening,saying goodbye to a friend who is driving,,ค่อย ๆ ขับนะ,ဖြည်းဖြည်း မောင်းနော်,,no
+S09,softening,aunt to niece,female,มาเที่ยวบ้านบ้างนะจ๊ะ,အိမ်ကို လာလည်ပါဦးနော်,,no
+S10,softening,older sister offering help,female,เดี๋ยวฉันช่วยเองจ้ะ,ငါ ကူညီပေးပါ့မယ်နော်,,no
+S11,softening,friend saying goodnight,,นอนเร็ว ๆ นะ,စောစော အိပ်နော်,,no
+S12,softening,friend arriving late,,ขอโทษนะ ฉันมาสาย,ဆောရီးနော်၊ ငါ နောက်ကျသွားတယ်,,no
+U01,urgency,friend at a bus stop,,เร็วสิ รถจะออกแล้ว,မြန်မြန်လုပ်လေ၊ ကား ထွက်တော့မယ်,,no
+U02,urgency,parent calling child,,รีบมาเดี๋ยวนี้เลย,အခုချက်ချင်း မြန်မြန်လာခဲ့,,no
+U03,urgency,friend offering food,,ลองกินดูสิ อร่อยนะ,စားကြည့်လေ၊ စားလို့ကောင်းတယ်နော်,,no
+U04,urgency,older sibling to younger sibling,,ปิดประตูซิ,တံခါး ပိတ်လိုက်လေ,,no
+U05,urgency,friend telling friend to go ahead,,ไปเลย ไม่ต้องรอฉัน,သွားလိုက်တော့၊ ငါ့ကို မစောင့်နဲ့,,no
+U06,urgency,friend asking what happened,,พูดมาสิ เกิดอะไรขึ้น,ပြောလေ၊ ဘာဖြစ်တာလဲ,,no
+U07,urgency,team leader to team member,,ส่งงานภายในวันนี้เลยนะ,ဒီနေ့အတွင်း အလုပ်တင်လိုက်တော့နော်,,no
+U08,urgency,annoyed friend demanding an answer,,ตอบมาสิ,ဖြေစမ်း,,no
+U09,urgency,warning a friend,,ระวังสิ,သတိထားလေ,,no
+U10,urgency,parent waking child,,ลุกขึ้นได้แล้ว สายแล้ว,ထတော့လေ၊ နောက်ကျနေပြီ,,no
+U11,urgency,asking friends to help,,มาช่วยกันหน่อยสิ,လာကူကြစမ်းပါ,,no
+U12,urgency,friend handing something over,,เอาไปสิ,ယူသွားလေ,,no
+F01,familiarity,two close male friends,male,ไปไหนมาวะ,ဘယ်သွားနေတာလဲကွ,,no
+F02,familiarity,two close male friends,male,หิวว่ะ,ဗိုက်ဆာတယ်ကွာ,,no
+F03,familiarity,angry teenager to sibling,,อย่ามายุ่งโว้ย,မရှုပ်နဲ့ကွာ,,no
+F04,familiarity,close friends teasing,male,เฮ้ย มึงมาสายอีกแล้ว,ဟေ့ကောင် မင်း နောက်ကျပြန်ပြီ,,no
+F05,familiarity,complaining to a close friend,,เบื่อเว้ย,ပျင်းတယ်ကွာ,,no
+F06,familiarity,surprised among close friends,,อะไรวะเนี่ย,ဘာကြီးလဲကွ,,no
+F07,familiarity,close male friends,male,กูไม่รู้ว่ะ,ငါ မသိဘူးကွ,,no
+F08,familiarity,praising a close friend,,เจ๋งว่ะ,မိုက်တယ်ကွာ,,no
+F09,familiarity,impatient close friend,,เร็ว ๆ ดิวะ,မြန်မြန်လုပ်စမ်းကွာ,,no
+F10,familiarity,giving up among friends,,ช่างมันว่ะ,ထားလိုက်တော့ကွာ,,no
+F11,familiarity,exhausted friend,,ไม่ไหวแล้วโว้ย,မခံနိုင်တော့ဘူးကွာ,,no
+F12,familiarity,close male friends,male,มึงกินข้าวยังวะ,မင်း ထမင်းစားပြီးပြီလားကွ,,no

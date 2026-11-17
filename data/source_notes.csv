@@ -1,0 +1,33 @@
+id,english_meaning,source_tone
+D01,Please be careful.,polite / caring (female speaker)
+D02,Thank you very much.,polite / respectful (female speaker)
+D03,I'll come back again later.,polite / respectful (female speaker)
+D04,It's okay.,polite / reassuring (female speaker)
+D05,How are you?,polite / warm inquiry (female speaker)
+D06,Could you help me?,polite request (female speaker)
+D07,I'm worried (about you).,polite / concerned (female speaker)
+D08,Please go slowly / take care on the way.,polite / caring (female speaker)
+S01,Sorry.,soft / friendly apology
+S02,Don't forget.,soft / friendly reminder
+S03,Let's eat together.,soft / warm invitation
+S04,Do it slowly / take your time.,soft / gentle encouragement
+S05,Take care of yourself.,soft / caring
+S06,Get some rest first.,soft / caring suggestion
+S07,I'm really sorry.,soft / sincere apology
+S08,I miss you.,soft / affectionate
+U01,Go now!,urgent / forceful command
+U02,Wait a moment!,urgent / strong command
+U03,"Come in, quick!",urgent / impatient
+U04,Call the police right away!,urgent / emergency
+U05,Come quickly!,urgent / pushing
+U06,Do it quickly!,urgent / urging
+U07,Decide quickly!,urgent / pressing
+U08,Send it now!,urgent / immediate
+F01,Why did you do this?,rough / angry (close friends)
+F02,I don't want to talk anymore.,rough / fed up (close friends)
+F03,You're the one who deleted it.,rough / accusing (close friends)
+F04,I already told you!,rough / frustrated (close friends)
+F05,I'm emotionally exhausted.,rough / tired (close friends)
+F06,(You) did it again!,rough / annoyed (close friends)
+F07,I'm fed up.,rough / fed up (close friends)
+F08,Why didn't you tell me in advance?,rough / angry (close friends)

@@ -1,0 +1,400 @@
+{
+ "_comment": "Bilingual pragmatic knowledge base. 'level' = politeness/register level on a 1-4 scale (1 = rough/intimate, 2 = plain/neutral, 3 = soft/friendly, 4 = formal-polite). 'functions' = pragmatic functions the marker carries. Values were assigned by the author (native Burmese speaker) and are a design choice, not taken from prior work.",
+ "default_level": 2.0,
+ "threshold": 0.5,
+ "functions": [
+  "deference",
+  "softening",
+  "urgency",
+  "familiarity"
+ ],
+ "thai": [
+  {
+   "marker": "ครับ",
+   "level": 4.0,
+   "functions": [
+    "deference"
+   ],
+   "gender": "male",
+   "position": "suffix"
+  },
+  {
+   "marker": "คับ",
+   "level": 4.0,
+   "functions": [
+    "deference"
+   ],
+   "gender": "male",
+   "position": "suffix"
+  },
+  {
+   "marker": "ค่ะ",
+   "level": 4.0,
+   "functions": [
+    "deference"
+   ],
+   "gender": "female",
+   "position": "suffix"
+  },
+  {
+   "marker": "คะ",
+   "level": 4.0,
+   "functions": [
+    "deference"
+   ],
+   "gender": "female",
+   "position": "suffix"
+  },
+  {
+   "marker": "ขา",
+   "level": 4.0,
+   "functions": [
+    "deference"
+   ],
+   "gender": "female",
+   "position": "suffix"
+  },
+  {
+   "marker": "จ้ะ",
+   "level": 3.0,
+   "functions": [
+    "softening"
+   ],
+   "position": "suffix"
+  },
+  {
+   "marker": "จ๊ะ",
+   "level": 3.0,
+   "functions": [
+    "softening"
+   ],
+   "position": "suffix"
+  },
+  {
+   "marker": "จ้า",
+   "level": 3.0,
+   "functions": [
+    "softening"
+   ],
+   "position": "suffix"
+  },
+  {
+   "marker": "นะ",
+   "level": 3.0,
+   "functions": [
+    "softening"
+   ],
+   "position": "suffix"
+  },
+  {
+   "marker": "น่ะ",
+   "level": 3.0,
+   "functions": [
+    "softening"
+   ],
+   "position": "suffix"
+  },
+  {
+   "marker": "หน่อย",
+   "level": 3.0,
+   "functions": [
+    "softening"
+   ],
+   "position": "suffix"
+  },
+  {
+   "marker": "หรอก",
+   "level": 3.0,
+   "functions": [
+    "softening"
+   ],
+   "position": "suffix"
+  },
+  {
+   "marker": "เถอะ",
+   "level": 2.5,
+   "functions": [
+    "softening"
+   ],
+   "position": "suffix"
+  },
+  {
+   "marker": "สิ",
+   "level": 2.0,
+   "functions": [
+    "urgency"
+   ],
+   "position": "suffix"
+  },
+  {
+   "marker": "ซิ",
+   "level": 2.0,
+   "functions": [
+    "urgency"
+   ],
+   "position": "suffix"
+  },
+  {
+   "marker": "ดิ",
+   "level": 2.0,
+   "functions": [
+    "urgency"
+   ],
+   "position": "suffix"
+  },
+  {
+   "marker": "เลย",
+   "level": 2.0,
+   "functions": [
+    "urgency"
+   ],
+   "position": "suffix"
+  },
+  {
+   "marker": "ได้แล้ว",
+   "level": 2.0,
+   "functions": [
+    "urgency"
+   ],
+   "position": "suffix"
+  },
+  {
+   "marker": "วะ",
+   "level": 1.0,
+   "functions": [
+    "familiarity"
+   ],
+   "position": "suffix"
+  },
+  {
+   "marker": "ว่ะ",
+   "level": 1.0,
+   "functions": [
+    "familiarity"
+   ],
+   "position": "suffix"
+  },
+  {
+   "marker": "เว้ย",
+   "level": 1.0,
+   "functions": [
+    "familiarity"
+   ],
+   "position": "suffix"
+  },
+  {
+   "marker": "โว้ย",
+   "level": 1.0,
+   "functions": [
+    "familiarity"
+   ],
+   "position": "suffix"
+  },
+  {
+   "marker": "เฟ้ย",
+   "level": 1.0,
+   "functions": [
+    "familiarity"
+   ],
+   "position": "suffix"
+  },
+  {
+   "marker": "เนี่ย",
+   "level": null,
+   "functions": [],
+   "position": "suffix"
+  },
+  {
+   "marker": "เฮ้ย",
+   "level": 1.0,
+   "functions": [
+    "familiarity"
+   ],
+   "position": "prefix"
+  },
+  {
+   "marker": "กู",
+   "level": 1.0,
+   "functions": [
+    "familiarity"
+   ],
+   "position": "prefix"
+  },
+  {
+   "marker": "มึง",
+   "level": 1.0,
+   "functions": [
+    "familiarity"
+   ],
+   "position": "anywhere"
+  }
+ ],
+ "thai_vocatives": [
+  "ลูก",
+  "คุณ",
+  "พี่",
+  "น้อง",
+  "เพื่อน",
+  "แม่",
+  "พ่อ"
+ ],
+ "myanmar": [
+  {
+   "marker": "ခင်ဗျာ",
+   "pattern": "ခင်ဗျာ?",
+   "level": 4.0,
+   "functions": [
+    "deference"
+   ],
+   "gender": "male"
+  },
+  {
+   "marker": "ရှင်",
+   "pattern": "ရှင့်|ရှင်(?=END)",
+   "level": 4.0,
+   "functions": [
+    "deference"
+   ],
+   "gender": "female"
+  },
+  {
+   "marker": "ပါ",
+   "pattern": "ပါ(?=END|[့]|တယ်|မယ်|ရစေ|လား|မလား|သလား|ဘူး|ပြီ|စေ)",
+   "level": 3.5,
+   "functions": [
+    "deference",
+    "softening"
+   ]
+  },
+  {
+   "marker": "နော်",
+   "pattern": "နော်",
+   "level": 3.0,
+   "functions": [
+    "softening"
+   ]
+  },
+  {
+   "marker": "ဦး",
+   "pattern": "(?<=[^\\s])ဦး(?=END)",
+   "level": 3.0,
+   "functions": [
+    "softening"
+   ]
+  },
+  {
+   "marker": "ရအောင်",
+   "pattern": "ရအောင်",
+   "level": 3.0,
+   "functions": [
+    "softening"
+   ]
+  },
+  {
+   "marker": "စို့",
+   "pattern": "စို့",
+   "level": 3.0,
+   "functions": [
+    "softening"
+   ]
+  },
+  {
+   "marker": "လေ",
+   "pattern": "လေ(?=END)",
+   "level": 2.0,
+   "functions": [
+    "urgency"
+   ]
+  },
+  {
+   "marker": "စမ်း",
+   "pattern": "စမ်း(?=END)",
+   "level": 2.0,
+   "functions": [
+    "urgency"
+   ]
+  },
+  {
+   "marker": "တော့",
+   "pattern": "တော့(?=END)",
+   "level": 2.0,
+   "functions": [
+    "urgency"
+   ]
+  },
+  {
+   "marker": "မြန်မြန်",
+   "pattern": "မြန်မြန်",
+   "level": 2.0,
+   "functions": [
+    "urgency"
+   ]
+  },
+  {
+   "marker": "ချက်ချင်း",
+   "pattern": "ချက်ချင်း",
+   "level": 2.0,
+   "functions": [
+    "urgency"
+   ]
+  },
+  {
+   "marker": "ကွာ",
+   "pattern": "ကွာ|ကွ(?=END)",
+   "level": 1.0,
+   "functions": [
+    "familiarity"
+   ]
+  },
+  {
+   "marker": "ဟေ့",
+   "pattern": "ဟေ့",
+   "level": 1.0,
+   "functions": [
+    "familiarity"
+   ]
+  },
+  {
+   "marker": "မင်း",
+   "pattern": "(?:^|(?<=\\s)|(?<=ငါ))(?:မင်း|နင်)(?=\\s|ကို|က|လည်း|ရဲ့|$|[။၊!?])",
+   "level": 1.5,
+   "functions": [
+    "familiarity"
+   ]
+  }
+ ],
+ "myanmar_end": "$|\\s|[။၊!?.,]|နော်|ကွာ|ကွ|ခင်ဗျ|ရှင်|လေ|ပါ|တော့|ဦး",
+ "suggestions": {
+  "deference": {
+   "male": [
+    "ခင်ဗျာ",
+    "ပါ"
+   ],
+   "female": [
+    "ရှင်",
+    "ပါ"
+   ],
+   "unknown": [
+    "ပါ"
+   ]
+  },
+  "softening": [
+   "နော်",
+   "ပါ",
+   "ဦး",
+   "ရအောင်"
+  ],
+  "urgency": [
+   "လေ",
+   "စမ်း",
+   "တော့",
+   "မြန်မြန်"
+  ],
+  "familiarity": [
+   "ကွာ",
+   "ကွ",
+   "ဟေ့"
+  ]
+ },
+ "_changelog": "v1.1 (after pilot study): added hortative စို့; sentence-final and ငါ-attached မင်း/နင် now detected. Removed Thai น้า (false match inside หน้า, e.g. ล่วงหน้า)."
+}
